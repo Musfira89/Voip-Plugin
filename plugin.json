@@ -1,0 +1,12 @@
+{
+    "name": "VoipPlugin",
+    "version": "1.0.0",
+    "description": "Custom VoIP call analytics plugin",
+    "theme": false,
+    "license": "GPL v3+",
+    "homepage": "",
+    "author": "Matomo User",
+    "keywords": ["voip", "analytics"],
+    "require": []
+  }
+  
